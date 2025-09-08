@@ -21,22 +21,23 @@ My goal? Build things that look clean and think deep.
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 
 ---
 
 ## ⚔️ Currently Questing On
-- 🧬 **Detecting ovarian cancer** with machine learning models  
-- ⚛️ Embarking on the journey to learn **React**  
-- 🧠 Implementing **Convolutional Neural Networks from scratch** to deepen understanding of deep learning architectures
+- 🤖 Exploring **Reinforcement Learning** for decision-making systems  
+- ⏳ Crafting features and models for **Time Series Analysis**
 
 ---
 
-## 🎯 Interests  
-- Machine Learning, taming the world with algorithms
-- Front-ends that feel like butter  
-- Projects with people who *get it*
+## ✅ Done
+- 🧬 **Detecting ovarian cancer** with ML models  
+- ⚓ Built a **CNN classifier for boats** (13 classes, custom dataset)  
+- 🏦 **Banque de France Hackathon**: AI agents + app building (Azure + React)
 
 ---
 
