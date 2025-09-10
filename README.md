@@ -5,7 +5,7 @@
 ---
 
 ## 🌱 About Me  
-Currently studying **Data Science**, exploring the realms of **front-end development**, and diving into projects that challenge and inspire.
+Currently studying **Data Science**, exploring the realms of **fullstack development**, and diving into projects that challenge and inspire.
 Hackathons? I thrive in ‘em.   
 Bugs? I whisper to them.   
 My goal? Build things that look clean and think deep.  
