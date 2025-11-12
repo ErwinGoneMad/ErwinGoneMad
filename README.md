@@ -41,13 +41,6 @@ My goal? Build things that look clean and think deep.
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErwinGoneMad&show_icons=true&theme=tokyonight" width="50%" />
-</p>
-
----
-
 <p align="center">
   <em>“In the midst of chaos, there is also opportunity.”</em><br>
   <strong>— Sun Tzu, probably debugging at 3AM</strong>
